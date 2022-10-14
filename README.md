@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mullinli
+- 👀 I’m interested in programming backend application on Java.
+- 🌱 I’m currently learning Java, Spring Framework and SQL.
+- 📫 How to reach me: latushkov02@gmail.com or +7(926)402-84-57.
